@@ -1,6 +1,13 @@
-# October Project
+# Harmonia
 
-Projeto 21/10/2026
+Explore o campo harmônico de qualquer nota, em modo maior ou menor natural.
+
+- Tríades e tétrades com grafia musical correta, incluindo sustenidos e bemóis.
+- Notas de cada acorde e reprodução com Web Audio (sem serviços externos).
+- Progressões transpostas automaticamente para o tom selecionado.
+- Interface responsiva em português e cópia do campo harmônico.
+
+Para validar: `npm test` e `npm run build`. O áudio requer interação e um navegador com suporte a Web Audio.
 
 This project was built with [Lovable](https://lovable.dev).
 
